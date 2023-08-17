@@ -8,4 +8,4 @@ When you run the start.bat file, it will do everything necessary for you.
 
 ## Example
 
-![streamable](https://streamable.com/e/mbivi3)
+https://streamable.com/e/mbivi3
